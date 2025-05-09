@@ -2,13 +2,13 @@
 
 
 -------------
-😃 Olá, me chamo Italo Elias!
+😃 Olá, me chamo **Italo Elias**!
 
-💬 Sou estudante de desenvolvimento em Python e IA!
+💬 **Estudante de desenvolvimento em Python e Inteligência Artificial (IA)**  
+🔄 **Migrando da área do comércio para a tecnologia!**  
+🛠️ Atualmente, estou aprendendo sobre **lógica de programação, Git/GitHub**, e **desenvolvimento de IA.**
 
-🔄 Migrando da área do comércio para técnologia!
-
-📫[ Acesse o meu Linkedin!](https://www.linkedin.com/in/italoelias20002000/)
+📫 **Acesse o meu [LinkedIn](https://www.linkedin.com/in/seulinkedin)**
 
 ------------------
 
@@ -22,6 +22,15 @@
 |Bootcamp: Python Fundamentals | [Certificado](https://hermes.dio.me/certificates/DQNCFWJC.pdf)|
 |Bootcamp: Formação Github Certification | |
 |Programção em Python |  |
+
+---------
+### Meus Hobbies e Interesses
+
+- 👫 **Encontros/Reuniões com Amigos**: Gosto de passar tempo com amigos e fazer atividades em grupo.
+- 🎬 **Filmes e Documentários**: Tenho interesse em filmes e documentários, especialmente os que tratam de temas sociais e históricos.
+- 🌍 **Geopolítica**: Gosto de estudar sobre as questões políticas e econômicas globais.
+- ✈️ **Viagens**: Amo viajar e conhecer novas culturas e lugares.
+- 🎲 **Jogos de Tabuleiro**: Gosto de jogar jogos de tabuleiro, que estimulam a estratégia e o raciocínio lógico.
 
 ---------
 ![Italo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItaloElias&show_icons=true&theme=dark)
