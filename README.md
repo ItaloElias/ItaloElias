@@ -1,6 +1,6 @@
 # Sejam Bem-vindos ao meu Github! 👋 
 
-![Sejam Bem-vindos!](https://github.com/ItaloElias/ItaloElias/blob/main/GIF%20bem%20vindos.gif)
+<img src="https://github.com/ItaloElias/ItaloElias/blob/main/GIF%20bem%20vindos.gif" width="200">
 
 
 -------------
