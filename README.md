@@ -1,5 +1,7 @@
 # Sejam Bem-vindos ao meu Github! 👋 
 
+![Sejam Bem-vindos!](https://github.com/ItaloElias/ItaloElias/blob/main/GIF%20bem%20vindos.gif)
+
 
 -------------
 😃 Olá, me chamo **Italo Elias**!
@@ -10,6 +12,14 @@
 
 📫 **Acesse o meu [LinkedIn](https://www.linkedin.com/in/seulinkedin)**
 
+---------
+
+| Cursos | Certificados |
+|--------|--------------|
+|Bootcamp: Python Fundamentals | [Certificado](https://hermes.dio.me/certificates/DQNCFWJC.pdf)|
+|Bootcamp: Formação Github Certification | |
+|Programção em Python |  |
+
 ------------------
 
 ### Minhas Técnologias 
@@ -17,13 +27,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="100px">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="100px" />
 
 ----------------
-| Cursos | Certificados |
-|--------|--------------|
-|Bootcamp: Python Fundamentals | [Certificado](https://hermes.dio.me/certificates/DQNCFWJC.pdf)|
-|Bootcamp: Formação Github Certification | |
-|Programção em Python |  |
 
----------
 ### Meus Hobbies e Interesses
 
 - 👫 **Encontros/Reuniões com Amigos**: Gosto de passar tempo com amigos e fazer atividades em grupo.
