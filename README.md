@@ -1,16 +1,27 @@
-## Hi there 👋
+# Sejam Bem-vindos ao meu Github! 👋 
 
-<!--
-**ItaloElias/ItaloElias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+-------------
+😃 Olá, me chamo Italo Elias!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Sou estudante de desenvolvimento em Python e IA!
+
+🔄 Migrande da área do comércio para técnologia!
+
+📫[ Acesse o meu Linkedin!](https://www.linkedin.com/in/italoelias20002000/)
+
+------------------
+
+### Minhas Técnologias 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="100px">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="100px" />
+
+----------------
+| Cursos | Certificados |
+|--------|--------------|
+|Bootcamp: Python Fundamentals | [Certificado](https://hermes.dio.me/certificates/DQNCFWJC.pdf)|
+|Bootcamp: Formação Github Certification | |
+|Programção em Python |  |
+
+---------
+![Italo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItaloElias&show_icons=true&theme=dark)
