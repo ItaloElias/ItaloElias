@@ -1,6 +1,6 @@
 # Sejam Bem-vindos ao meu Github! 👋 
 
-<img src="https://github.com/ItaloElias/ItaloElias/blob/main/GIF%20bem%20vindos.gif" width="500" height="200">
+<img src="https://github.com/ItaloElias/ItaloElias/blob/main/GIF%20bem%20vindos.gif" width="1100" height="400">
 
 
 -------------
