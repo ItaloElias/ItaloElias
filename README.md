@@ -6,7 +6,7 @@
 
 💬 Sou estudante de desenvolvimento em Python e IA!
 
-🔄 Migrande da área do comércio para técnologia!
+🔄 Migrando da área do comércio para técnologia!
 
 📫[ Acesse o meu Linkedin!](https://www.linkedin.com/in/italoelias20002000/)
 
