@@ -33,5 +33,5 @@
 - 🎲 **Jogos de Tabuleiro**: Gosto de jogar jogos de tabuleiro, que estimulam a estratégia e o raciocínio lógico.
 
 ---------
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ItaloElias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloElias&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=ItaloElias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloElias&layout=compact&langs_count=7&theme=dark"/>
 </div>
