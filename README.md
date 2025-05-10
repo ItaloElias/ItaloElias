@@ -14,7 +14,7 @@
 |--------|--------------|
 |Bootcamp: Python Fundamentals | [Certificado](https://hermes.dio.me/certificates/DQNCFWJC.pdf)|
 |Bootcamp: Formação Github Certification | |
-|Programção em Python |  |
+|Programação em Python |  |
 
 ------------------
 
