@@ -6,9 +6,20 @@
 🔄 **Migrando da área do comércio para a tecnologia!**  
 🛠️ Atualmente, estou aprendendo sobre **lógica de programação, Git/GitHub**, e **desenvolvimento de IA.**
 
-📫 **Acesse o meu [LinkedIn](https://www.linkedin.com/in/seulinkedin)**
-
 ---------
+### Contatos:
+<div>
+  <a href = "italo_elias@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/italoelias20002000/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+---------------
+
+### Minhas Técnologias 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="100px">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="100px" />
+
+----------------
 
 | Cursos | Certificados |
 |--------|--------------|
@@ -17,13 +28,6 @@
 |Programação em Python |  |
 
 ------------------
-
-### Minhas Técnologias 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="100px">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="100px" />
-
-----------------
-
 ### Meus Hobbies e Interesses
 
 - 👫 **Encontros/Reuniões com Amigos**: Gosto de passar tempo com amigos e fazer atividades em grupo.
