@@ -21,11 +21,12 @@
 
 ----------------
 
-| Cursos | Certificados |
-|--------|--------------|
-|Bootcamp: Python Fundamentals | [Certificado](https://hermes.dio.me/certificates/DQNCFWJC.pdf)|
-|Bootcamp: Formação Github Certification | [Certificado](https://hermes.dio.me/certificates/PY4YIH1I.pdf)|
-|Programação em Python |  |
+| Cursos | Instituição | Certificados |
+|--------|--------------|--------------|
+|Bootcamp Python Fundamentals | DIO | [Certificado](https://hermes.dio.me/certificates/DQNCFWJC.pdf) |
+|Bootcamp Formação Github Certification | DIO | [Certificado](https://hermes.dio.me/certificates/PY4YIH1I.pdf) |
+|Bootcamp Formação Fundamentos de Inteligência Artificial | DIO | [Certificado](https://hermes.dio.me/certificates/6SNG1FUM.pdf) |
+|Programação em Python | SENAI |  |
 
 ------------------
 ### Meus Hobbies e Interesses
