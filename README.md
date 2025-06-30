@@ -2,9 +2,8 @@
 
 😃 Olá, me chamo **Italo Elias**!
 
-💬 **Estudante de desenvolvimento em Python e Inteligência Artificial (IA)**  
+💬 **Estudante de programção**  
 🔄 **Migrando da área do comércio para a tecnologia!**  
-🛠️ Atualmente, estou aprendendo sobre **lógica de programação, Git/GitHub**, e **desenvolvimento de IA.**
 
 ---------
 ### Contatos:
@@ -17,16 +16,19 @@
 
 ### Minhas Técnologias 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="100px">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="100px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="100px">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="100px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px" /> <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="100px" />
 
 ----------------
 
 | Cursos | Instituição | Certificados |
 |--------|--------------|--------------|
-|Bootcamp Python Fundamentals | DIO | [Certificado](https://hermes.dio.me/certificates/DQNCFWJC.pdf) |
+|Bootcamp Santander 2025 - Back-End com Python | DIO | [Certificado](https://hermes.dio.me/certificates/FVBZASSS.pdf) |
+|Bootcamp MicroSoft 50 Anos - GitHub Copilot | DIO | [Certificado](https://hermes.dio.me/certificates/1UIRE4FB.pdf) |
+|Programação em Python | SENAI |  |
 |Bootcamp Formação Github Certification | DIO | [Certificado](https://hermes.dio.me/certificates/PY4YIH1I.pdf) |
 |Bootcamp Formação Fundamentos de Inteligência Artificial | DIO | [Certificado](https://hermes.dio.me/certificates/6SNG1FUM.pdf) |
-|Programação em Python | SENAI |  |
+|Bootcamp Python Fundamentals | DIO | [Certificado](https://hermes.dio.me/certificates/DQNCFWJC.pdf) |
 
 ------------------
 ### Meus Hobbies e Interesses
