@@ -25,7 +25,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-origi
 |--------|--------------|--------------|
 |Bootcamp Santander 2025 - Back-End com Python | DIO | [Certificado](https://hermes.dio.me/certificates/FVBZASSS.pdf) |
 |Bootcamp MicroSoft 50 Anos - GitHub Copilot | DIO | [Certificado](https://hermes.dio.me/certificates/1UIRE4FB.pdf) |
-|Programação em Python | SENAI |  |
+|Programação em Python | SENAI | [Certificado](https://www.sp.senai.br/consulta-certificado?qrcode=39025194944/15140161) |
 |Bootcamp Formação Github Certification | DIO | [Certificado](https://hermes.dio.me/certificates/PY4YIH1I.pdf) |
 |Bootcamp Formação Fundamentos de Inteligência Artificial | DIO | [Certificado](https://hermes.dio.me/certificates/6SNG1FUM.pdf) |
 |Bootcamp Python Fundamentals | DIO | [Certificado](https://hermes.dio.me/certificates/DQNCFWJC.pdf) |
