@@ -1,43 +1,37 @@
-# Sejam Bem-vindos ao meu Github! 👋 
+# Welcome to my GitHub! 👋  
 
-😃 Olá, me chamo **Italo Elias**!
+😃 Hi, my name is **Italo Elias**!  
 
-💬 **Estudante de programção**  
-🔄 **Migrando da área do comércio para a tecnologia!**  
+🎓 **Analysis and Systems Development student (FATEC Cruzeiro)**  
+🚀 Passionate about creating and developing projects  
+🐕 My favorite hobby is walking with my dog  
+📚 Always learning and improving  
+☁️ Currently studying at **SENAI**: AWS Cloud and Python for Data Science  
 
 ---------
-### Contatos:
+### Contacts:
 <div>
-  <a href = "italo_elias@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href = "mailto:italo_elias@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/italoelias20002000/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 ---------------
 
-### Minhas Técnologias 
+### My Technologies
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="100px">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="100px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px" /> <img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="100px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="70px">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="70px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="70px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="70px" /> <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="70px" />
 
 ----------------
 
-| Cursos | Instituição | Certificados |
-|--------|--------------|--------------|
-|Bootcamp Santander 2025 - Back-End com Python | DIO | [Certificado](https://hermes.dio.me/certificates/FVBZASSS.pdf) |
-|Bootcamp MicroSoft 50 Anos - GitHub Copilot | DIO | [Certificado](https://hermes.dio.me/certificates/1UIRE4FB.pdf) |
-|Programação em Python | SENAI | [Certificado](https://www.sp.senai.br/consulta-certificado?qrcode=39025194944/15140161) |
-|Bootcamp Formação Github Certification | DIO | [Certificado](https://hermes.dio.me/certificates/PY4YIH1I.pdf) |
-|Bootcamp Formação Fundamentos de Inteligência Artificial | DIO | [Certificado](https://hermes.dio.me/certificates/6SNG1FUM.pdf) |
-|Bootcamp Python Fundamentals | DIO | [Certificado](https://hermes.dio.me/certificates/DQNCFWJC.pdf) |
-
-------------------
-### Meus Hobbies e Interesses
-
-- 👫 **Encontros/Reuniões com Amigos**: Gosto de passar tempo com amigos e fazer atividades em grupo.
-- 🎬 **Filmes e Documentários**: Tenho interesse em filmes e documentários, especialmente os que tratam de temas sociais e históricos.
-- 🌍 **Geopolítica**: Gosto de estudar sobre as questões políticas e econômicas globais.
-- ✈️ **Viagens**: Amo viajar e conhecer novas culturas e lugares.
-- 🎲 **Jogos de Tabuleiro**: Gosto de jogar jogos de tabuleiro, que estimulam a estratégia e o raciocínio lógico.
+| Courses | Institutions | Certificates | Month/Year |
+|--------|--------------|--------------|:-------:|
+|Bootcamp Santander 2025 - Back-End com Python | DIO | [Certificado](https://hermes.dio.me/certificates/FVBZASSS.pdf) | 06/2025 | 
+|Bootcamp Microsoft 50 Anos - GitHub Copilot | DIO | [Certificado](https://hermes.dio.me/certificates/1UIRE4FB.pdf) | 06/2025 |
+|Programação em Python | SENAI | [Certificado](https://www.sp.senai.br/consulta-certificado?qrcode=39025194944/15140161) | 06/2025 |
+|Bootcamp Formação GitHub Certification | DIO | [Certificado](https://hermes.dio.me/certificates/PY4YIH1I.pdf) | 05/2025 |
+|Bootcamp Formação Fundamentos de Inteligência Artificial | DIO | [Certificado](https://hermes.dio.me/certificates/6SNG1FUM.pdf) | 05/2025 |
+|Bootcamp Python Fundamentals | DIO | [Certificado](https://hermes.dio.me/certificates/DQNCFWJC.pdf) | 04/2025 |
 
 ---------
 <table>
